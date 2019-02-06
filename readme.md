@@ -2,4 +2,4 @@
 jsのみでアニメーションを制御する
 
 # DEMO
-https://yuki-sakaguchi.github.io/animejs-hover/index.html
+https://yuki-sakaguchi.github.io/animejs-hover/
